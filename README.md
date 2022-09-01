@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS, starting classes at Juno College out of Toronto Canada but online.
 - 💞️ I’m looking to collaborate on any front end development for learning.
 - 📫 How to reach me: gregcrutchlow@gmail.com with the subject line starting with github:
+- 🦆 Follow me on Twitter @GregCrutchlow
 
 <!---
 SirKittyton/SirKittyton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
