@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SirKittyton
+- 👋 Hi, I’m @SirKittyton, also known by my human name of Greg. I'm a budding front-end developer based out of Ottawa Canada.
 - 👀 I’m interested in learning HTML, CSS and JS. Along side all of this I would also like to learn React, Ruby, SQL Firebase, Docker and more. My goal is to become a Full Stack Developer and to create my own web based inventory system.
 - 🌱 I’m currently learning HTML and CSS, starting classes at Juno College out of Toronto Canada but online.
 - 💞️ I’m looking to collaborate on any front end development for learning.
