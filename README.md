@@ -5,6 +5,9 @@
 - 📫 How to reach me: gregcrutchlow@gmail.com with the subject line starting with github:
 - 🦆 Follow me on Twitter @GregCrutchlow
 
+Tech Stack:
+HTML, CSS< Sass, JS
+
 <!---
 SirKittyton/SirKittyton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
