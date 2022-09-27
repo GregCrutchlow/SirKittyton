@@ -6,7 +6,7 @@
 - 🦆 Follow me on Twitter @GregCrutchlow
 
 Tech Stack:
-HTML, CSS, Sass, JS
+HTML, CSS, Sass, JS, Git
 
 <!---
 SirKittyton/SirKittyton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
